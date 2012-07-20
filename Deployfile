@@ -1,0 +1,12 @@
+{
+	"user" : "joshholt",
+	"name" : "A haibu-control example",
+	"domain": "mytest.com",
+	"repository" : {
+		"type" : "git",
+		"url"  : "https://github.com/joshholt/haibu-control-example.git"
+	},
+	"scripts" : {
+		"start" : "app.js"
+	}
+}
