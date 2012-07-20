@@ -1,6 +1,6 @@
 {
 	"user" : "joshholt",
-	"name" : "A haibu-control example",
+	"name" : "haibu-contol-example",
 	"domain": "mytest.com",
 	"repository" : {
 		"type" : "git",
